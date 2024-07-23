@@ -1,0 +1,34 @@
+  h1{
+    background-color: black;
+    color: bisque;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 40px;
+    text-align: center;
+    padding: 2px;
+  }
+
+  h2{
+    background-color: black;
+    color: bisque;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 40px;
+    text-align: center;
+    padding: 2px;
+    width: 250px; 
+   
+  }
+  img{
+    display: inline-block;
+    margin-bottom: 10px;
+    width: 600px; height: 400px
+  }
+
+  dl{
+   
+    width: 500px;
+    padding: 10px;
+    color: blue;
+  }
+body{
+    background-color: rgb(225, 215, 203);
+}
